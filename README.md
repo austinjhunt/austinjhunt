@@ -1,19 +1,15 @@
 ### Hi there 👋
 
-[![Austin's Github Stats](https://github-readme-stats.vercel.app/api?username=austinjhunt)](https://github.com/anuraghazra/github-readme-stats)
+## My name is Austin Hunt
+
+## I currently work with 
+Python, Docker, Kubernetes, AWS, Ansible, Vagrant, JavaScript, Django, CouchDB, Couchbase, Java, Bash, Icinga2
+
+## I am currently learning 
+
+React, Express, Node
+
+[![Austin's Github Stats](https://github-readme-stats.vercel.app/api?username=austinjhunt&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=austinjhunt&theme=tokyonight)
-<!--
-**austinjhunt/austinjhunt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
