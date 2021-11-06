@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 [![Austin's Github Stats](https://github-readme-stats.vercel.app/api?username=austinjhunt)](https://github.com/anuraghazra/github-readme-stats)
+![](https://visitor-badge.laobi.icu/badge?page_id=austinjhunt.austinjhunt)
 <!--
 **austinjhunt/austinjhunt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
