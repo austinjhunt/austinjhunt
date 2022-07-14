@@ -7,7 +7,7 @@ Python, Docker, Kubernetes, AWS, Ansible, Vagrant, JavaScript, Django, CouchDB, 
 
 ## I am currently learning 
 
-React, Express, Node
+WebGME, Machine Learning, Deep Learning, PyTorch, Numpy, Pandas
 
 [![Austin's Github Stats](https://github-readme-stats.vercel.app/api?username=austinjhunt&show_icons=true&count_private=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
