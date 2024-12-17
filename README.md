@@ -40,7 +40,11 @@
 - How to build extensions for Ellucian Experience in higher education
 - How to live, laugh, love consistently
 - How to leverage the OpenAI API for embeddings and chat completions in a standardized way that fuses with clean front-end functionality like AI assistants and search
- 
+
+
+## Development Activity 
+This little visual is an incomplete view of my development work. It does not include my private repository contributions (a majority) or my contributions to enterprise github projects for work. 
+
 [![Austin's Github Stats](https://github-readme-stats.vercel.app/api?username=austinjhunt&show_icons=true&count_private=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=austinjhunt&theme=tokyonight)
