@@ -30,6 +30,7 @@
 
 
 ## I am currently learning 
+- Go!!!
 - How to slow down my excitement for development to critically analyze the purpose of projects before diving headfirst
 - How to properly architect Icinga, Icinga Director, and Icinga web for optimal performance, coverage, and process efficiency for an enterprise IT team
 - How to leverage GitHub Actions to fully automate deployments of prod and preview environments to AWS EBS in a secure and cost-efficient way with custom domains
