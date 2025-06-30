@@ -4,17 +4,12 @@
 
 ## I currently work with 
 - Puppet & Hiera for automating configuration management across a variety of environments, compliance levels, and cloud service providers 
-- Python, JS, HTML/CSS, PHP, Velocity, PowerShell, Bash
-- Django & Django REST Framework (DRF) for custom backend web app and REST API development
-- Docker for application containerization, K8s for orchestrating said containers
-- Apache and Nginx as primary web servers for enterprise websites and web apps
-- React for quick, component-based front end development
-- AWS - Elastic Beanstalk, Route53, S3, SSM Parameter Store (to avoid environment variable limitations of EBS environments), API Gateway, Lambda, Cloudwatch with *chef's kiss* JSON logging
-- Cloudflare, primarily because it's easy to use and provides some nice security features
-- Wordpress (freelance plugin and theme development)
-- Linode for hosting
-- GitHub Actions with PR labeling to trigger deployments to prod and preview environments and save TONS of time
+- Docker for app and workflow containerization, learning new tools like Puppet on new Apple Silicon chips that hate virtual machines
+- Apache/Nginx/Django/DRF/React/Node/Express/HTML/CSS/Velocity/JavaScript/PHP/WordPress for web and API development projects and CMS management
+- Freelance plugin and theme development for Wordpress
+- GitHub Actions and GitLab Pipelines for continuous integration and delivery workflows
 - OpenAI embeddings and chat completion API for AI integration into web applications like [https://studyrocket.ai](https://studyrocket.ai) and [https://novabrains.ai](https://novabrains.ai)
+- Google Gemini APIs for building mobile apps with Expo that support AI-driven conversion of images to text (easy selling of household items for spring cleaning)
 
 
 ## I am currently learning 
